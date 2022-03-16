@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amalia</h1>
 <h3 align="center">A frontend developer based in Lecco (LC), Italy</h3>
 
-- 🌱 I’m currently working with **HTML, CSS, Javascript, React, Next.JS, Vue.JS, Laravel, PHP **
+- 🌱 I’m currently working with **HTML, CSS, Javascript, React, Next.JS, Vue.JS, Laravel, PHP**
 
 - 📫 I’m currently looking for new opportunities as a Jr. Front End Developer, feel free to contact me!
 
