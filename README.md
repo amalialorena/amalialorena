@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **HTML, CSS, Javascript, React, Next.JS, Vue.JS, Laravel, PHP**
 
-- 📫 I’m currently looking for new opportunities as a Jr. Front End Developer, feel free to contact me!
+- 📫 I’m looking for new opportunities as a Jr. Front End Developer, feel free to contact me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
